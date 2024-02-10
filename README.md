@@ -12,5 +12,5 @@ The Luhn Algorithm is used to validate ID numbers, like credit card numbers. Add
 - `my_str.translate(str.maketrans())` returns the translated string
 
 ## Resources
-Youtube lesson link: https://www.youtube.com/watch?v=PNXXqzU4YnM
-freeCodeCamp lesson link: https://www.freecodecamp.org/learn/scientific-computing-with-python/
+- Youtube lesson link: https://www.youtube.com/watch?v=PNXXqzU4YnM
+- freeCodeCamp lesson link: https://www.freecodecamp.org/learn/scientific-computing-with-python/
