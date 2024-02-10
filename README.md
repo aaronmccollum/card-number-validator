@@ -8,8 +8,8 @@ The Luhn Algorithm is used to validate ID numbers, like credit card numbers. Add
 3. If the sum of all the digits divides evenly by 10 (i.e. if it ends in a 0), the number is valid. Otherwise, it is invalid.
 
 ## Python lessons learned:
-- str.maketrans({k: v, k: v, k: v}) takes k in str and replaces it with v
-- my_str.translate(str.maketrans()) returns the translated string
+- `str.maketrans({k: v, k: v, k: v})` takes k in str and replaces it with v
+- `my_str.translate(str.maketrans())` returns the translated string
 
 ## Resources
 Youtube lesson link: https://www.youtube.com/watch?v=PNXXqzU4YnM
